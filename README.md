@@ -1,8 +1,7 @@
 # Agente de Playlist Curada para Spotify
 
 **Trabajo Individual · MBA ORT Uruguay**  
-**Materia:** Innovación y Estrategias de Tecnología  
-**Alumno:** Luis Safons · N.º 90614
+**Materia:** Innovación y Estrategias de Tecnología
 
 ---
 
